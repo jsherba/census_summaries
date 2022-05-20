@@ -1,0 +1,44 @@
+category,attribute_name,12501,12502,17601
+Population,Total Population,3283,3191,5902
+Population,"Non-Hispanicor Latino, white",1109,810,1569
+Population,Asian,960,1561,2386
+Population,Hispanic or Latino,538,221,632
+Population,Two or More Races,86,78,168
+Population,Other,369,114,286
+Population,Black or African American,516,495,924
+Population,American Indian or Alaskan Native,55,25,19
+Population,Native Hawaiian or Pacific Islander,19,39,196
+Population,Persons with Disabilities,-888888888,-888888888,-888888888
+Population,Seniors with Disabilties,-888888888,-888888888,-888888888
+Housing Units,Total,2436,2533,3909
+Housing Units,For Rent,388,252,483
+Housing Units,Vacant Units,509,330,772
+Households,Total,1927,2203,3137
+Households,"Non-Hispanicor Latino, white",795,644,1122
+Households,Asian,524,815,944
+Households,Hispanic or Latino,312,189,335
+Households,Two or More Races,23,78,139
+Households,Other,186,93,199
+Households,Black or African American,243,480,548
+Households,American Indian or Alaskan Native,30,25,19
+Households,Native Hawaiian or Pacific Islander,0,10,36
+Households,Tenure owners,23,23,226
+Households,Tenure renters ,1904,2180,2911
+Households,# in Poverty,66,69,116
+Households,Median Income (renter households),11523,11453,20431
+Households,Renter households less than 5000,264,294,283
+Households,Renter households 5000-9999,337,410,259
+Households,Renter households 10000-14999,610,707,522
+Households,Renter households 15000-19999,183,179,376
+Households,Renter households 20000-24999,37,218,188
+Households,Renter households 25000-34999,168,193,184
+Households,Renter households 35000-49999,94,80,199
+Households,Renter households 50000-74999,157,99,274
+Households,Renter households 75000-99999,157,99,274
+Households,Renter households 100000-149000,25,0,197
+Households,Renter households greater than 150000,0,0,97
+Households,Cost burdened 30%+,502,617,659
+Households,Severely cost burdened 50%+,676,560,812
+Households,1-Person,1474,1755,1905
+Households,Households with Children,264,251,1083
+Households,Senior households,521,882,393

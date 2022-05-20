@@ -1,0 +1,44 @@
+category,attribute_name,year_2000,year_2010,year_2020
+Population,Total Population,776733,789172,874784
+Population,"Non-Hispanicor Latino, white",338909,332062,348449
+Population,Asian,239565,264709,300339
+Population,Hispanic or Latino,109504,116075,132865
+Population,Two or More Races,33255,28027,62702
+Population,Other,50368,33231,67358
+Population,Black or African American,60515,49071,44930
+Population,American Indian or Alaskan Native,8971,3994,3800
+Population,Native Hawaiian or Pacific Islander,3844,3266,3179
+Population,Persons with Disabilities,127937,-888888888,87964
+Population,Seniors with Disabilties,46224,-888888888,46265
+Housing Units,Total,346527,372560,398613
+Housing Units,For Rent,5841,12168,9040
+Housing Units,Vacant Units,16827,36604,36472
+Households,Total,329700,335956,362141
+Households,"Non-Hispanicor Latino, white",184804,175782,175384
+Households,Asian,78375,91395,112248
+Households,Hispanic or Latino,31803,36901,41017
+Households,Two or More Races,11531,9457,18545
+Households,Other,12946,10020,18661
+Households,Black or African American,24280,21934,18023
+Households,American Indian or Alaskan Native,1334,1600,1351
+Households,Native Hawaiian or Pacific Islander,1006,1087,1068
+Households,Tenure owners,115315,126028,137679
+Households,Tenure renters ,214385,209928,224462
+Households,# in Poverty,33755,10796,9386
+Households,Median Income (renter households),45275,53716,100715
+Households,Renter households less than 5000,2296,10454,6767
+Households,Renter households 5000-9999,16948,8821,6043
+Households,Renter households 10000-14999,13209,17501,15321
+Households,Renter households 15000-19999,11119,11938,8339
+Households,Renter households 20000-24999,10864,10185,6722
+Households,Renter households 25000-34999,21849,16952,12594
+Households,Renter households 35000-49999,31040,23075,14623
+Households,Renter households 50000-74999,37456,31534,22511
+Households,Renter households 75000-99999,23140,31534,22511
+Households,Renter households 100000-149000,21883,28741,32874
+Households,Renter households greater than 150000,15898,26192,80020
+Households,Cost burdened 30%+,41542,45865,41135
+Households,Severely cost burdened 50%+,35058,43578,38203
+Households,1-Person,127350,134874,131319
+Households,Households with Children,63867,151651,159289
+Households,Senior households,78716,78558,99055

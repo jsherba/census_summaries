@@ -1,0 +1,44 @@
+category,attribute_name,125,17601
+Population,Total Population,7727,5756
+Population,"Non-Hispanicor Latino, white",2232,1769
+Population,Asian,2799,2098
+Population,Hispanic or Latino,1004,663
+Population,Two or More Races,494,261
+Population,Other,361,320
+Population,Black or African American,1177,918
+Population,American Indian or Alaskan Native,236,156
+Population,Native Hawaiian or Pacific Islander,49,35
+Population,Persons with Disabilities,2081,1367
+Population,Seniors with Disabilties,821,378
+Housing Units,Total,4626,2556
+Housing Units,For Rent,358,83
+Housing Units,Vacant Units,421,119
+Households,Total,4205,2437
+Households,"Non-Hispanicor Latino, white",1539,947
+Households,Asian,1163,701
+Households,Hispanic or Latino,435,230
+Households,Two or More Races,255,120
+Households,Other,161,125
+Households,Black or African American,787,404
+Households,American Indian or Alaskan Native,67,33
+Households,Native Hawaiian or Pacific Islander,21,12
+Households,Tenure owners,0,155
+Households,Tenure renters ,4205,2282
+Households,# in Poverty,1345,621
+Households,Median Income (renter households),12015,19311
+Households,Renter households less than 5000,0,0
+Households,Renter households 5000-9999,1271,457
+Households,Renter households 10000-14999,657,181
+Households,Renter households 15000-19999,448,237
+Households,Renter households 20000-24999,313,169
+Households,Renter households 25000-34999,357,239
+Households,Renter households 35000-49999,271,290
+Households,Renter households 50000-74999,217,251
+Households,Renter households 75000-99999,72,86
+Households,Renter households 100000-149000,22,32
+Households,Renter households greater than 150000,22,39
+Households,Cost burdened 30%+,1021,371
+Households,Severely cost burdened 50%+,1083,576
+Households,1-Person,2869,1434
+Households,Households with Children,455,336
+Households,Senior households,1110,336
