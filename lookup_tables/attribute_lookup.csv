@@ -1,44 +1,44 @@
-﻿category,attribute_name,attribute_2020,extension_2020,attribute_2010,extension_2010,attribute_2000,extension_2000
-Population,Total Population,B01003_001E,acs5,B01003_001E,acs5,P007001,sf1
-Population,"Non-Hispanicor Latino, white",B03002_003E,acs5,B03002_003E,acs5,P008003,sf1
-Population,Asian,B02001_005E,acs5,B02001_005E,acs5,P007005,sf1
-Population,Hispanic or Latino,B03001_003E,acs5,B03001_003E,acs5,P008010,sf1
-Population,Two or More Races,B02001_008E,acs5,B02001_008E,acs5,P007008,sf1
-Population,Other,B02001_007E,acs5,B02001_007E,acs5,P007007,sf1
-Population,Black or African American,B02001_003E,acs5,B02001_003E,acs5,P007003,sf1
-Population,American Indian or Alaskan Native,B02001_004E,acs5,B02001_004E,acs5,P009004,sf1
-Population,Native Hawaiian or Pacific Islander,B02001_006E,acs5,B02001_006E,acs5,P007006,sf1
-Population,Persons with Disabilities,"B18101_004E,B18101_007E,B18101_010E,B18101_013E,B18101_016E,B18101_019E,B18101_023E,B18101_026E,B18101_029E,B18101_032E,B18101_035E,B18101_038E",acs5,DP02_0071E,acs5/profile,"P042004,P042007,P042015,P042021,P042024,P042028,P042031,P042038,P042045,P042048",sf3
-Population,Seniors with Disabilties,"B18101_016E,B18101_019E,B18101_035E,B18101_038E",acs5,DP02_0076E,acs5/profile,"P042021,P042024,P042045,P042048",sf3
-Housing Units,Total,B25001_001E,acs5,B25001_001E,acs5,H001001,sf3
-Housing Units,For Rent,B25004_002E,acs5,B25004_002E,acs5,H008002,sf3
-Housing Units,Vacant Units,B25002_003E,acs5,B25002_003E,acs5,H006003,sf3
-Households,Total,B11001_001E,acs5,B11001_001E,acs5,P015001,sf1
-Households,"Non-Hispanicor Latino, white",B11001H_001E,acs5,B11001H_001E,acs5,P015I001,sf1
-Households,Asian,B11001D_001E,acs5,B11001D_001E,acs5,P015D001,sf1
-Households,Hispanic or Latino,B11001I_001E,acs5,B11001I_001E,acs5,P015H001,sf1
-Households,Two or More Races,B11001G_001E,acs5,B11001G_001E,acs5,P015G001,sf1
-Households,Other,B11001F_001E,acs5,B11001F_001E,acs5,P015F001,sf1
-Households,Black or African American,B11001B_001E,acs5,B11001B_001E,acs5,P015B001,sf1
-Households,American Indian or Alaskan Native,B11001C_001E,acs5,B11001C_001E,acs5,P015C001,sf1
-Households,Native Hawaiian or Pacific Islander,B11001E_001E,acs5,B11001E_001E,acs5,P015E001,sf1
-Households,Tenure owners,B25011_002E,acs5,B25011_002E,acs5,H011002,sf3
-Households,Tenure renters ,B25011_026E,acs5,B25011_026E,acs5,H011010,sf3
-Households,# in Poverty,B17013_002E,acs5,B17013_002E,acs5,P092002,sf3
-Households,Median Income (renter households),B25119_003E,acs5,B25119_003E,acs5,HCT012003,sf3
-Households,Renter households less than 5000,B25118_015E,acs5,B25118_015E,acs5,HCT011003,sf3
-Households,Renter households 5000-9999,B25118_016E,acs5,B25118_016E,acs5,HCT011016,sf3
-Households,Renter households 10000-14999,B25118_017E,acs5,B25118_017E,acs5,HCT011017,sf3
-Households,Renter households 15000-19999,B25118_018E,acs5,B25118_018E,acs5,HCT011018,sf3
-Households,Renter households 20000-24999,B25118_019E,acs5,B25118_019E,acs5,HCT011019,sf3
-Households,Renter households 25000-34999,B25118_020E,acs5,B25118_020E,acs5,HCT011020,sf3
-Households,Renter households 35000-49999,B25118_021E,acs5,B25118_021E,acs5,HCT011021,sf3
-Households,Renter households 50000-74999,B25118_022E,acs5,B25118_022E,acs5,HCT011022,sf3
-Households,Renter households 75000-99999,B25118_022E,acs5,B25118_022E,acs5,HCT011023,sf3
-Households,Renter households 100000-149000,B25118_024E,acs5,B25118_024E,acs5,HCT011024,sf3
-Households,Renter households greater than 150000,B25118_025E,acs5,B25118_025E,acs5,HCT011025,sf3
-Households,Cost burdened 30%+,"B25070_007E,B25070_008E,B25070_009E",acs5,"B25070_007E,B25070_008E,B25070_009E",acs5,"H069007,H069008,H069009",sf3
-Households,Severely cost burdened 50%+,B25070_010E,acs5,B25070_010E,acs5,H069010,sf3
-Households,1-Person,B11016_010E,acs5,B11016_010E,acs5,H016002,sf3
-Households,Households with Children,B09019_014E,acs5,B09016_008E,acs5,P019002,sf1
-Households,Senior households,B11007_002E,acs5,B11007_002E,acs5,P023002,sf1
+﻿category,attribute_name,attribute_2020,extension_2020,attribute_2010,extension_2010,attribute_2000,extension_2000,attribute_2010_dec,extension_2010_dec
+Population,Total Population,B01003_001E,acs5,B01003_001E,acs5,P007001,sf1,P003001,sf1
+Population,"Non-Hispanicor Latino, white",B03002_003E,acs5,B03002_003E,acs5,P008003,sf1,P005003,sf1
+Population,Asian,B02001_005E,acs5,B02001_005E,acs5,P007005,sf1,P003005,sf1
+Population,Hispanic or Latino,B03001_003E,acs5,B03001_003E,acs5,P008010,sf1,P004003,sf1
+Population,Two or More Races,B02001_008E,acs5,B02001_008E,acs5,P007008,sf1,P003008,sf1
+Population,Other,B02001_007E,acs5,B02001_007E,acs5,P007007,sf1,P003007,sf1
+Population,Black or African American,B02001_003E,acs5,B02001_003E,acs5,P007003,sf1,P003003,sf1
+Population,American Indian or Alaskan Native,B02001_004E,acs5,B02001_004E,acs5,P009004,sf1,P003004,sf1
+Population,Native Hawaiian or Pacific Islander,B02001_006E,acs5,B02001_006E,acs5,P007006,sf1,P003006,sf1
+Population,Persons with Disabilities,"B18101_004E,B18101_007E,B18101_010E,B18101_013E,B18101_016E,B18101_019E,B18101_023E,B18101_026E,B18101_029E,B18101_032E,B18101_035E,B18101_038E",acs5,DP02_0071E,acs5/profile,"P042004,P042007,P042015,P042021,P042024,P042028,P042031,P042038,P042045,P042048",sf3,,
+Population,Seniors with Disabilties,"B18101_016E,B18101_019E,B18101_035E,B18101_038E",acs5,DP02_0076E,acs5/profile,"P042021,P042024,P042045,P042048",sf3,,
+Housing Units,Total,B25001_001E,acs5,B25001_001E,acs5,H001001,sf3,,
+Housing Units,For Rent,B25004_002E,acs5,B25004_002E,acs5,H008002,sf3,,
+Housing Units,Vacant Units,B25002_003E,acs5,B25002_003E,acs5,H006003,sf3,,
+Households,Total,B11001_001E,acs5,B11001_001E,acs5,P015001,sf1,,
+Households,"Non-Hispanicor Latino, white",B11001H_001E,acs5,B11001H_001E,acs5,P015I001,sf1,,
+Households,Asian,B11001D_001E,acs5,B11001D_001E,acs5,P015D001,sf1,,
+Households,Hispanic or Latino,B11001I_001E,acs5,B11001I_001E,acs5,P015H001,sf1,,
+Households,Two or More Races,B11001G_001E,acs5,B11001G_001E,acs5,P015G001,sf1,,
+Households,Other,B11001F_001E,acs5,B11001F_001E,acs5,P015F001,sf1,,
+Households,Black or African American,B11001B_001E,acs5,B11001B_001E,acs5,P015B001,sf1,,
+Households,American Indian or Alaskan Native,B11001C_001E,acs5,B11001C_001E,acs5,P015C001,sf1,,
+Households,Native Hawaiian or Pacific Islander,B11001E_001E,acs5,B11001E_001E,acs5,P015E001,sf1,,
+Households,Tenure owners,B25011_002E,acs5,B25011_002E,acs5,H011002,sf3,,
+Households,Tenure renters ,B25011_026E,acs5,B25011_026E,acs5,H011010,sf3,,
+Households,# in Poverty,B17013_002E,acs5,B17013_002E,acs5,P092002,sf3,,
+Households,Median Income (renter households),B25119_003E,acs5,B25119_003E,acs5,HCT012003,sf3,,
+Households,Renter households less than 5000,B25118_015E,acs5,B25118_015E,acs5,HCT011003,sf3,,
+Households,Renter households 5000-9999,B25118_016E,acs5,B25118_016E,acs5,HCT011016,sf3,,
+Households,Renter households 10000-14999,B25118_017E,acs5,B25118_017E,acs5,HCT011017,sf3,,
+Households,Renter households 15000-19999,B25118_018E,acs5,B25118_018E,acs5,HCT011018,sf3,,
+Households,Renter households 20000-24999,B25118_019E,acs5,B25118_019E,acs5,HCT011019,sf3,,
+Households,Renter households 25000-34999,B25118_020E,acs5,B25118_020E,acs5,HCT011020,sf3,,
+Households,Renter households 35000-49999,B25118_021E,acs5,B25118_021E,acs5,HCT011021,sf3,,
+Households,Renter households 50000-74999,B25118_022E,acs5,B25118_022E,acs5,HCT011022,sf3,,
+Households,Renter households 75000-99999,B25118_022E,acs5,B25118_022E,acs5,HCT011023,sf3,,
+Households,Renter households 100000-149000,B25118_024E,acs5,B25118_024E,acs5,HCT011024,sf3,,
+Households,Renter households greater than 150000,B25118_025E,acs5,B25118_025E,acs5,HCT011025,sf3,,
+Households,Cost burdened 30%+,"B25070_007E,B25070_008E,B25070_009E",acs5,"B25070_007E,B25070_008E,B25070_009E",acs5,"H069007,H069008,H069009",sf3,,
+Households,Severely cost burdened 50%+,B25070_010E,acs5,B25070_010E,acs5,H069010,sf3,,
+Households,1-Person,B11016_010E,acs5,B11016_010E,acs5,H016002,sf3,,
+Households,Households with Children,B09019_014E,acs5,B09016_008E,acs5,P019002,sf1,,
+Households,Senior households,B11007_002E,acs5,B11007_002E,acs5,P023002,sf1,,
